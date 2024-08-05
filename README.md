@@ -9,3 +9,5 @@ Algorithm:
   2) Find the gradient $\nabla f$, where $\nabla f=(\frac{\partial{f(x,y)}}{\partial x},\frac{\partial{f(x,y)} }{\partial y})$
   3) Find the point of the next iteration $x^k=x^k-0.01*\nu*\nabla f$
   4) Repeat steps 1-3 the specified number k-times, or until the module displacement of the point $x^k$ is not less than the specified number $\epsilon$
+
+![Graphic](https://github.com/era011/gradient-descent/blob/main/newplot%20(1).png)
